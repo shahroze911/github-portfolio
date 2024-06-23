@@ -1442,7 +1442,7 @@ textarea.form-input::-webkit-resizer {
   article {
     width: 520px;
     margin-inline: auto;
-    padding: 30px;
+    padding: 15px;
   }
 
   .article-title {
@@ -1456,10 +1456,10 @@ textarea.form-input::-webkit-resizer {
   }
 
   .icon-box {
-    width: 48px;
-    height: 48px;
+    width: 50px;
+    height: 50px;
     border-radius: 12px;
-    font-size: 18px;
+    font-size: 20px;
   }
 
   /**
@@ -2060,7 +2060,7 @@ textarea.form-input::-webkit-resizer {
   }
 
   .contact-info :is(.contact-link) {
-    white-space: nowrap;
+    white-space:nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
   }
